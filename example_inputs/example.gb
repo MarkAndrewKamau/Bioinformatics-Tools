@@ -1,0 +1,12 @@
+LOCUS       EX0001                    12 bp    DNA              UNK 01-JAN-1980
+DEFINITION  Example GenBank record.
+ACCESSION   EX0001
+VERSION     EX0001.1
+KEYWORDS    .
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atggccatgg cc
+//

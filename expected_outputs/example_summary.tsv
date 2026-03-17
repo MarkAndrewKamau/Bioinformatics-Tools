@@ -1,0 +1,4 @@
+id	source_file	format	description	length	mol_type	gc_percent	md5
+seq_dna	example_inputs/example.fa	fasta	seq_dna Example DNA record	10	DNA	50.00	45aff2fecf7615d56bc0567dffab9fa8
+seq_prot	example_inputs/example.fa	fasta	seq_prot Example protein record	9	protein		0c1c209d0c37d2e9dd7d1af1364600e9
+EX0001.1	example_inputs/example.gb	genbank	Example GenBank record	12	DNA	66.67	09b3c3324325f4f9fec0932261cab23c
